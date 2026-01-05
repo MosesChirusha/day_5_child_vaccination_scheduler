@@ -2,14 +2,16 @@
 
 A simple, offline-first vaccination tracking app for  children following Ministry of Health guidelines.
 
-**Live Demo**: [Your Demo URL]
+**Live Demo**: [Demo URL](https://moseschirusha.github.io/day_5_child_vaccination_scheduler/)
+**Youtube Tutorial**: [Video](https://www.youtube.com/watch?v=rcy9dq9Luwc)
+**Medium Article**: [Read Here](https://medium.com/@moseschirusha/how-i-built-a-free-vaccination-tracker-for-african-parents-no-backend-no-installation-no-b9c1934ee8fd)
 
 ## Quick Start
 
 ```bash
 # Clone and run
-git clone https://github.com/yourusername/vaccination-tracker-kenya.git
-cd vaccination-tracker-kenya
+git clone https://github.com/MosesChirusha/day_5_child_vaccination_scheduler.git
+cd day_5_child_vaccination_scheduler
 open vaccination-tracker.html
 ```
 
