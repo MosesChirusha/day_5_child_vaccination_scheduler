@@ -95,11 +95,4 @@ const VACCINE_SCHEDULE = [
 
 MIT License - use freely, modify, distribute.
 
-## Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/vaccination-tracker-kenya/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
-
 **Part of 90-Day Coding Challenge for African Development** | Day 5 of 90
